@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm finishing my studies in engineering and I try to learn as much as I can about games development. Here are all my practice, personal and university projecets
+I'm an engineering student looking to build a career in games development.
+Here are some of my personal and university projects
 
 
 ## 🌐 Socials:
