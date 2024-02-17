@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student looking to build a career in games development.
+I'm a junior engineer looking to build a career in games development.
 Here are some of my personal and university projects
 
 ## 🌐 Socials:
